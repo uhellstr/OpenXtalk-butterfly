@@ -1,10 +1,12 @@
 Butterfly
 =========
 
-A C64 Basic demo converted to LiveCode.
+Note: LiveCode no longer support the community edtion. Therefore this repo now is converted to use openXtalk.
 
-This version of Butterfly is built with LiveCode Community version 6.5.X
-Download this free version of LiveCode from http://livecode.com/
+A C64 Basic demo converted to openXtalk.
+
+This version of Butterfly is built with OpenXtalk
+Download this free version of Openxtalk from https://www.openxtalk.org/forum/
 
 A couple of years ago I was really into retroprogramming and did some Assembler and Basic programming on C64.
 One of the programs I wrote in Basic was the Butterfly Demo.
